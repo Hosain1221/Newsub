@@ -1,0 +1,2 @@
+vless://88eb60cb-5be5-4923-93df-c50b5ac8345e@net.n.allinetsh.site:2086?type=ws&security=none&path=%2F&encryption=none#S
+vless://a5469633-b780-4e13-815b-fa72582f8c4e@79.175.133.135:41754?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8D%92+%40FreeVirGoolNet+1
